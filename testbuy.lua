@@ -182,7 +182,7 @@ local function createLiveReport(resultText)
     report.TextSize = 12
     report.TextWrapped = true
     report.BorderSizePixel = 0
-    report.TextXAlignment = Enum.TextXAlignment.Left
+    report.TextXAlignment = Enum.TextXAlignment.Center
     report.TextYAlignment = Enum.TextYAlignment.Top
     report.Parent = mainFrame
     
